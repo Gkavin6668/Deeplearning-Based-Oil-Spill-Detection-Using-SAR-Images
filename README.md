@@ -5,7 +5,7 @@
 This repository presents a deep learning framework for **oil spill detection and semantic segmentation** using Sentinel-1 Synthetic Aperture Radar (SAR) imagery. The project focuses on distinguishing true oil spills from visually similar look-alike phenomena such as low-wind zones, biogenic films, and sea clutter using encoder–decoder segmentation architectures.
 
 The work evaluates multiple baseline models and proposes an enhanced attention-based U-Net variant for improved boundary delineation and segmentation accuracy.
-
+  
 ---
 📄 Published Research Paper
 
