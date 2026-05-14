@@ -174,4 +174,9 @@ Dataset provided by ESA Copernicus Program.
 Research conducted for oil spill monitoring and marine environmental protection.
 
 ---
+## 👥 Contributors
+
+- Megarajan P N
+- Kavinraaj G
+- Katakam Shrihita
 
